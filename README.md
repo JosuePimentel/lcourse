@@ -16,4 +16,4 @@
 * git fetch - Faz download das referencias e arquivos de um repositorio.
 * git pull - Atualiza os arquivos remotos com o do repositorio.
 * git remote add name url - Quando se da o git init direto do prompt, linka o remoto com a rede(GitHub).
-* git remote
+* git remote - Nome do remoto.
