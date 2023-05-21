@@ -12,6 +12,7 @@
 * git restore nomeDoArqivo - volta atras um dos estagios, no caso quando estiver Modified, ele retorna para Unmodified, ou seja, "exclui" oq vc escreveu até o último commit.
 * git restore --staged nomeDoArquivo - volta do estagio de staged para Modified.
 * git log - Mostra os ultimos commits feitos.
+* git log --oneline --decorate - Mostra aonde esta o HEAD(Qual branch vc esta).
 * git push rementente distinatario- Faz uploud do remoto para a rede, remetente -> origin, destinatario -> main ou master.
 * git fetch - Faz download das referencias e arquivos de um repositorio.
 * git pull - Atualiza os arquivos remotos com o do repositorio.
