@@ -2,7 +2,7 @@
 
 * git config --global user.name "nomeDoUsario"
 * git conif --global user.email emailDoUsuario
-* git --version - versão do git
+* git --version - versão do git.
 * git init - Fazer dentro da Pasta que vc quer criar um repositorio.
 * git clone link* - clonar um repositorio pelo terminal, *link do * repositorio no github.
 * git status - ver o status do repositorio, se há mudanças ou commits a fazer.
