@@ -19,3 +19,4 @@
 * git remote - Nome do remoto.
 * git branch nome - Criar uma nova branch.
 * git checkout nome - Escolher qual branch quer trabalhar.
+* git merge nomeDaBranch - Mescla um arquivo com outro, *Vc deve estar da branch e deve trazer os arquivos de utro branch para essa que vc esta.
