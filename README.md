@@ -17,3 +17,5 @@
 * git pull - Atualiza os arquivos remotos com o do repositorio.
 * git remote add name url - Quando se da o git init direto do prompt, linka o remoto com a rede(GitHub).
 * git remote - Nome do remoto.
+* git branch nome - Criar uma nova branch.
+* git checkout nome - Escolher qual branch quer trabalhar.
