@@ -24,3 +24,6 @@
 
 * npm create vite -> Criar Projeto em React
 * code . -> abre o projeto do vite
+
+* git status
+* git init > git add . > git add commit -m '' > cria o repositorio no github e ai ele ja vai dar os comandos necessarios pra transferir o conteudo pro github
