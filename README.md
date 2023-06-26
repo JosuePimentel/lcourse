@@ -27,3 +27,11 @@
 
 * git status
 * git init > git add . > git add commit -m '' > cria o repositorio no github e ai ele ja vai dar os comandos necessarios pra transferir o conteudo pro github
+
+* Outros comandos no terminal do linux:
+* pwd -> mostra com o path que vc esta
+* ls -a -> lista todos os itens da pasta que vc esta, até os ocultos.
+* vi nome.c -> editor pelo linux
+* esq + : -> set number, exit, wq (sai e salva)
+* i -> insert 
+* ls -l -> mosta as permissoes, r - read; w - write; x - executavel; 
