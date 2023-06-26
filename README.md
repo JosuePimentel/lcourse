@@ -36,3 +36,9 @@
 * i -> insert 
 * ls -l -> mosta as permissoes, r - read; w - write; x - executavel; 
 * cat arquivo.c -> lê o arquivo
+* touch nome.tipo -> cria um arquivo com a extensao que escolher
+* echo "oq vai ser adicionado" >> arquivo.tipo -> concatena o texto dentro do arquivo.tipo
+* echo "oq vai ser substituido" > arquivo.tipo -> substitui o conteudo do arquivo pelo novo conteudo
+* code . -> abre o arquivo do path no vscode
+* code arquivo.tipo -> abre o arquivo no vscode
+* git config --global init.defaultBranch nome -> criar um repositorio pelo cmd
