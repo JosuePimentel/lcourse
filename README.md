@@ -35,3 +35,4 @@
 * esq + : -> set number, exit, wq (sai e salva)
 * i -> insert 
 * ls -l -> mosta as permissoes, r - read; w - write; x - executavel; 
+* cat arquivo.c -> lê o arquivo
